@@ -1,0 +1,23 @@
+.questionContainer {
+  z-index: 99;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  margin-top: 30px;
+}
+
+.questionItem {
+  font-weight: 400;
+  font-family: "Ubuntu";
+  width: 100%;
+  display: flex;
+  justify-content: start;
+  text-align: left;
+}
+
+.answerContainer {
+  width: 100%;
+  margin-top: 30px;
+}

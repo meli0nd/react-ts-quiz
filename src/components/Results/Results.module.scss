@@ -1,0 +1,33 @@
+.results {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.resultsImage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  img {
+    width: 40%;
+  }
+}
+
+.resultsTitle {
+  font-size: 28px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.resetButton {
+  cursor: pointer;
+  color: #fff;
+  border-radius: 26px;
+  border: none;
+  padding: 15px 30px;
+  outline: none;
+  background: #df1064;
+  font-size: 18px;
+}

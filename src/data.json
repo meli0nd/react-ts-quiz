@@ -1,0 +1,45 @@
+[
+  {
+    "id": 0,
+    "question": "React - это...?",
+    "answers": ["Приложение", "Фреймворк", "Библиотека"],
+    "correct": 2,
+    "progress": "0%"
+  },
+  {
+    "id": 1,
+    "question": "JSX - это...?",
+    "answers": [
+      "Язык программирования",
+      "Синтаксис JavaScript'а",
+      "База данных"
+    ],
+    "correct": 1,
+    "progress": "25%"
+  },
+  {
+    "id": 2,
+    "question": "Что такое Redux?",
+    "answers": ["Менеджер состояния", "Язык программирования", "Не знаю"],
+    "correct": 0,
+    "progress": "50%"
+  },
+  {
+    "id": 3,
+    "question": "Что такое TypeScript?",
+    "answers": [
+      "Язык программирования",
+      "Синтаксис JavaScript'а",
+      "Библиотека"
+    ],
+    "correct": 0,
+    "progress": "75%"
+  },
+  {
+    "id": 4,
+    "question": "Значение 'display' у <span>?",
+    "answers": ["flex", "block", "inline"],
+    "correct": 2,
+    "progress": "100%"
+  }
+]
